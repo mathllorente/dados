@@ -1,0 +1,18 @@
+ Pesquisa Nacional de Saúde - 2013 - Módulo de doenças crônicas - colesterol, doenças cardiovasculares (DCV), acidente vascular cerebral (AVC) e asma
+%Diagn.médico colesterol por Região
+Período:2013
+"Região";"%Diagn.médico_colesterol";"Informações Estatísticas"
+"1 Região Norte";10,2;IC=(9,2-11,2) CV=4,9%
+"2 Região Nordeste";12,2;IC=(11,4-12,9) CV=3,2%
+"3 Região Sudeste";13,3;IC=(12,4-14,1) CV=3,4%
+"4 Região Sul";13,0;IC=(11,8-14,3) CV=4,9%
+"5 Região Centro-Oeste";11,0;IC=(10,0-12,0) CV=4,6%
+"Total";12,5;IC=(12,1-13,0) CV=1,9%
+ Fonte: IBGE - Pesquisa Nacional de Saúde - PNS 2013
+ Notas:
+ 
+ As questões deste módulo foram aplicadas a um morador de cada domicílio, selecionado entre os de 18 anos ou mais.
+ Por se tratar de uma pesquisa amostral, o valor do indicador pode não ter significância estatística quando desagregado para segmentos
+ populacionais específicos, tais como indígenas, amarelos e pretos, pois estes grupos são muito pequenos em alguns estados e regiões.
+ Consulte também o sítio da Pesquisa Nacional de Saúde.
+ 

@@ -1,0 +1,18 @@
+ Pesquisa Nacional de Saúde - 2013 - Módulo de doenças crônicas - hipertensão arterial
+%Diagn.médico hipert.arterial por Região
+Período:2013
+"Região";"%Diagn.médico_hipert.arterial";"Informações Estatísticas"
+"1 Região Norte";14,5;IC=(13,5-15,6) CV=3,8%
+"2 Região Nordeste";19,4;IC=(18,4-20,5) CV=2,8%
+"3 Região Sudeste";23,3;IC=(22,2-24,4) CV=2,4%
+"4 Região Sul";22,9;IC=(21,3-24,5) CV=3,5%
+"5 Região Centro-Oeste";21,2;IC=(19,9-22,5) CV=3,1%
+"Total";21,4;IC=(20,8-22,0) CV=1,5%
+ Fonte: IBGE - Pesquisa Nacional de Saúde - PNS 2013
+ Notas:
+ 
+ As questões deste módulo foram aplicadas a um morador de cada domicílio, selecionado entre os de 18 anos ou mais.
+ Por se tratar de uma pesquisa amostral, o valor do indicador pode não ter significância estatística quando desagregado para segmentos
+ populacionais específicos, tais como indígenas, amarelos e pretos, pois estes grupos são muito pequenos em alguns estados e regiões.
+ Consulte também o sítio da Pesquisa Nacional de Saúde.
+ 

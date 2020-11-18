@@ -1,0 +1,18 @@
+ Pesquisa Nacional de Saúde - 2013 - Módulo de doenças crônicas - diabetes
+%Diagn.médico diabetes por Região
+Período:2013
+"Região";"%Diagn.médico_diabetes";"Informações Estatísticas"
+"1 Região Norte";4,3;IC=(3,5-5,0) CV=8,5%
+"2 Região Nordeste";5,4;IC=(4,9-5,9) CV=4,8%
+"3 Região Sudeste";7,1;IC=(6,4-7,7) CV=4,7%
+"4 Região Sul";6,2;IC=(5,4-7,0) CV=6,6%
+"5 Região Centro-Oeste";6,5;IC=(5,7-7,2) CV=6,0%
+"Total";6,2;IC=(5,9-6,6) CV=2,8%
+ Fonte: IBGE - Pesquisa Nacional de Saúde - PNS 2013
+ Notas:
+ 
+ As questões deste módulo foram aplicadas a um morador de cada domicílio, selecionado entre os de 18 anos ou mais.
+ Por se tratar de uma pesquisa amostral, o valor do indicador pode não ter significância estatística quando desagregado para segmentos
+ populacionais específicos, tais como indígenas, amarelos e pretos, pois estes grupos são muito pequenos em alguns estados e regiões.
+ Consulte também o sítio da Pesquisa Nacional de Saúde.
+ 
